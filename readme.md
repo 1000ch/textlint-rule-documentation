@@ -1,5 +1,9 @@
 # textlint-rule-documentation
 
+Find the url for the documentation of an textlint rule.
+
+[![Build Status](https://travis-ci.org/1000ch/textlint-rule-documentation.svg?branch=master)](https://travis-ci.org/1000ch/textlint-rule-documentation)
+
 ## Install
 
 ```bash
