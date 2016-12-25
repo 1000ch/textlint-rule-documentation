@@ -1,0 +1,31 @@
+{
+  "name": "textlint-rule-documentation",
+  "version": "0.0.0",
+  "description": "Find the url for the documentation of an textlint rule",
+  "scripts": {
+    "test": "ava",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": "1000ch/textlint-rule-documentation",
+  "keywords": [
+    "textlint",
+    "lint",
+    "rule",
+    "rules",
+    "doc",
+    "documentation"
+  ],
+  "author": {
+    "name": "1000ch",
+    "email": "shogo.sensui@gmail.com",
+    "web": "https://github.com/1000ch"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1000ch/textlint-rule-documentation/issues"
+  },
+  "homepage": "https://github.com/1000ch/textlint-rule-documentation#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}

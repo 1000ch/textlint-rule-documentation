@@ -1,0 +1,10 @@
+{
+  "no-todo": "https://github.com/azu/textlint-rule-no-todo",
+  "no-nfd": "https://github.com/azu/textlint-rule-no-nfd",
+  "no-double-negative-ja": "https://github.com/azu/textlint-rule-no-double-negative-ja",
+  "no-empty-section": "https://github.com/azu/textlint-rule-no-empty-section",
+  "no-hankaku-kana": "https://github.com/azu/textlint-rule-no-hankaku-kana",
+  "no-exclamation-question-mark": "https://github.com/azu/textlint-rule-no-exclamation-question-mark",
+  "no-start-duplicated-conjunction": "https://github.com/azu/textlint-rule-no-start-duplicated-conjunction",
+  "no-doubled-conjunction": "https://github.com/takahashim/textlint-rule-no-doubled-conjunction"
+}
